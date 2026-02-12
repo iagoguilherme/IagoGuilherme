@@ -1,16 +1,13 @@
-## Hi there 👋
+# Iago Guilherme 👋🏽  
+**Geólogo | Hidrogeólogo**  
+Brasília – Brasil 🇧🇷
 
-<!--
-**IagoGuilherme/IagoGuilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo com hidrogeologia aplicada, análise de poços tubulares e organização técnica de dados geológicos.
 
-Here are some ideas to get you started:
+Integro **geociências, tecnologia e automação** para transformar dados de campo em relatórios estruturados, reprodutíveis e confiáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💧 Hidrogeologia  
+🗺️ Interpretação geológica  
+📊 Testes de vazão  
+🤖 IA aplicada às geociências  
+⚙️ Automação de workflows técnicos  
