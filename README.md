@@ -1,4 +1,4 @@
-# Iago Guilherme 🌍🌋🏞️⚒️⛏️👷🏽‍♂️
+# Iago Guilherme 🌍🌋⚒️⛏️👷🏽‍♂️
 **Geólogo | Hidrogeólogo**  
 Brasília – Brasil 🇧🇷
 
